@@ -21,5 +21,3 @@ A decentralized staking application that allows users to stake their tokens and 
 -  Withdraw staked tokens + rewards
 -  Admin panel to set reward rates and control contract
 -  Live updates of staking balance and total pool
-
-##  Project Structure
